@@ -1,0 +1,19 @@
+#nav-bar{
+    position: fixed;
+    top: 0;
+  }
+  ul{
+    margin: 75px;
+  }
+  li{
+    display: inline-blocks;
+  }
+  @media screen and (min-width: 200px){
+    body{
+      background-color: #00beef;
+    }
+  }
+  .flex{
+    display: flex;
+    margin: 10;
+  }
